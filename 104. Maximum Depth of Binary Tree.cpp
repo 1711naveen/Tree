@@ -11,11 +11,6 @@
  */
 class Solution {
 public:
-    void preorder(TreeNode *p){
-        if(p){
-
-        }
-    }
     int maxDepth(TreeNode* root) {
         if(root==NULL)
             return 0;
